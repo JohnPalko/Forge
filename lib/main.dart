@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   width: 50,
                   child: Center(child: Text('data')),
                 ),
-                Container(child: Text('hello')),
+                Text('hello'),
               ],
             ),
           ],
